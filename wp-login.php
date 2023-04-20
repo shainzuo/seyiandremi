@@ -2,7 +2,7 @@
 <html lang="en-US">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Log In &lsaquo; Wedding Invitation &#8212; WordPress</title>
+	<title>Log In &lsaquo; Seyi ❤️ Remi &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="stylesheet" id="dashicons-css" href="/wp-includes/css/dashicons.min.css?ver=6.2" media="all">
 <link rel="stylesheet" id="buttons-css" href="/wp-includes/css/buttons.min.css?ver=6.2" media="all">
@@ -50,7 +50,7 @@
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }</script>
 				<p id="backtoblog">
-			<a href="/">&larr; Go to Wedding Invitation</a>		</p>
+			<a href="/">&larr; Go to Seyi ❤️ Remi</a>		</p>
 			</div>
 			<script src="/wp-includes/js/jquery/jquery.min.js?ver=3.6.3" id="jquery-core-js"></script>
 <script src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0" id="jquery-migrate-js"></script>
@@ -69,7 +69,7 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 <script src="/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
 <script id="wp-util-js-extra">var _wpUtilSettings = {"ajax":{"url":"\/seyiandremi\/wp-admin\/admin-ajax.php"}};</script>
 <script src="/wp-includes/js/wp-util.min.js?ver=6.2" id="wp-util-js"></script>
-<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"728547f321"};</script>
+<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"991325afa7"};</script>
 <script src="/wp-admin/js/user-profile.min.js?ver=6.2" id="user-profile-js"></script>
 			<script>/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);</script>
 				<div class="clear"></div>
